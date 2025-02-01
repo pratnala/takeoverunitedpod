@@ -11,6 +11,10 @@
             Pratyush, Somdeep, and Rohan take over your weekend with all things Manchester United! New episodes every Sunday.
         </description>
         <itunes:type>episodic</itunes:type>
+        <itunes:owner>
+            <itunes:name>Pratyush Nalam, Somdeep Dey, Rohan Gaikwad</itunes:name>
+            <itunes:email>contact@takeoverunitedpod.com</itunes:email>
+        </itunes:owner>
         <itunes:image href="https://www.takeoverunitedpod.com/logo.png"/>
         <itunes:category text="Sports">
             <itunes:category text="Soccer"/>
