@@ -16,19 +16,19 @@
             <itunes:category text="Soccer"/>
         </itunes:category>
         <itunes:explicit>false</itunes:explicit>
-    </channel>
-    <item>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:season>1</itunes:season>
-        <itunes:episode>1</itunes:episode>
-        <title>Welcome to Takeover United Pod!</title>
-        <description>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <title>Welcome to Takeover United Pod!</title>
+            <description>
             Love Manchester United? You have come to the right place! Introducing #TakeoverUnitedPod! Pratyush, Somdeep, and Rohan take over your weekend with all things #mufc! Get ready for an entertaining discussion of the past week&apos;s games, tactics, squad building, transfers, and much more!
-        </description>
-        <enclosure url="https://media.githubusercontent.com/media/pratnala/takeoverunitedpod/refs/heads/main/episodes/2025-02-01.mp3" type="audio/mpeg" length="146491224"/>
-        <guid>4393C038-B13B-45D5-9FD9-4B778557EA0C</guid>
-        <pubDate>Sat, 01 Feb 2025 10:30:00 +0530</pubDate>
-        <itunes:duration>4577</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-    </item>
+            </description>
+            <enclosure url="https://media.githubusercontent.com/media/pratnala/takeoverunitedpod/refs/heads/main/episodes/2025-02-01.mp3" type="audio/mpeg" length="146491224"/>
+            <guid>4393C038-B13B-45D5-9FD9-4B778557EA0C</guid>
+            <pubDate>Sat, 01 Feb 2025 10:30:00 +0530</pubDate>
+            <itunes:duration>4577</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
+    </channel>
 </rss>
