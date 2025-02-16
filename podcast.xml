@@ -48,5 +48,19 @@
             <itunes:duration>6546</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <title>Picking the best lineup for Ruben Amorim!</title>
+            <description>
+                This week on #TakeoverUnitedPod, Pratyush, Somdeep, and Rohan build the perfect XI for Ruben Amorim...twice! We&apos;ve got one dream lineup for you ignoring the injury crisis, and another realistic one that accounts for the mountain of sidelined players. We also break down the incoming January transfers!
+            </description>
+            <enclosure url="https://media.githubusercontent.com/media/pratnala/takeoverunitedpod/refs/heads/main/episodes/2025-02-16.mp3" type="audio/mpeg" length="227281053"/>
+            <guid>8076DD13-804B-4676-8DED-ED9D12B94D0B</guid>
+            <pubDate>Sun, 16 Feb 2025 10:30:00 +0530</pubDate>
+            <itunes:duration>5681</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
