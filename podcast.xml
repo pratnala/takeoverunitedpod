@@ -62,5 +62,19 @@
             <itunes:duration>5681</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <title>Toothless in London and penny-pinching in Manchester!</title>
+            <description>
+                This week on #TakeoverUnitedPod, Pratyush, Somdeep, and Rohan discuss the gutless performance against Tottenham Hotspur, a revealing interview from an ex-Manchester United player - Raphaël #Varane, and an analysis of the heartless way in which INEOS is carrying out a much-needed cost-cutting.
+            </description>
+            <enclosure url="https://media.githubusercontent.com/media/pratnala/takeoverunitedpod/refs/heads/main/episodes/2025-02-22.mp3" type="audio/mpeg" length="224068583"/>
+            <guid>108DEAFF-EFC9-4BF4-A2F9-A38E292200CD</guid>
+            <pubDate>Sat, 22 Feb 2025 10:30:00 +0530</pubDate>
+            <itunes:duration>5601</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
