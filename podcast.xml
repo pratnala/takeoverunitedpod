@@ -76,5 +76,19 @@
             <itunes:duration>5601</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>5</itunes:episode>
+            <title>We do not deserve Bruno Fernandes!</title>
+            <description>
+                This week on #TakeoverUnitedPod, Pratyush, Somdeep, and Rohan analyze the Everton, Ipswich, Fulham, and Real Sociedad games, give a passionate defense of Bruno Fernandes, rant on the club&apos;s transfers (again), wonder if Kobbie Mainoo will really depart Manchester United this summer, and serve up some predictions for Arsenal and Real Sociedad!
+            </description>
+            <enclosure url="https://media.githubusercontent.com/media/pratnala/takeoverunitedpod/refs/heads/main/episodes/2025-03-08.mp3" type="audio/mpeg" length="181316995"/>
+            <guid>FBDDE25B-8C1A-4A06-8DE5-656A7E733AEA</guid>
+            <pubDate>Sat, 08 Mar 2025 11:00:00 +0530</pubDate>
+            <itunes:duration>4532</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
