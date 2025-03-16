@@ -90,5 +90,19 @@
             <itunes:duration>4532</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>6</itunes:episode>
+            <title>Learning the Ruben Amorim Way!</title>
+            <description>
+                This week on #TakeoverUnitedPod, Pratyush, Somdeep, and Rohan discuss the team's encouraging progress, analyzing tactical shifts in the Arsenal and Real Sociedad matches with positive signs of Ruben Amorim's influence, dissect Sir Jim Ratcliffe's revealing interview, and share some (cautiously optimistic) thoughts on the exciting new stadium plans!
+            </description>
+            <enclosure url="https://media.githubusercontent.com/media/pratnala/takeoverunitedpod/refs/heads/main/episodes/2025-03-15.mp3" type="audio/mpeg" length="172111161"/>
+            <guid>FE57DF2F-09C3-4FAA-B980-9A295F6E1B4B</guid>
+            <pubDate>Sat, 15 Mar 2025 22:00:00 +0530</pubDate>
+            <itunes:duration>4302</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
