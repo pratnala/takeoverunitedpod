@@ -118,5 +118,19 @@
             <itunes:duration>3877</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>8</itunes:episode>
+            <title>Guess the Manchester United player!</title>
+            <description>
+                This week on #TakeoverUnitedPod, Pratyush, Somdeep, and Rohan put their United knowledge to the test with "Guess the Manchester United Player!" See how well they (and you!) remember the club's legends and current stars.
+            </description>
+            <enclosure url="https://media.githubusercontent.com/media/pratnala/takeoverunitedpod/refs/heads/main/episodes/2025-03-29.mp3" type="audio/mpeg" length="174580345"/>
+            <guid>1194AAAD-3880-496C-BE60-639A9A78108F</guid>
+            <pubDate>Sat, 29 Mar 2025 10:30:00 +0530</pubDate>
+            <itunes:duration>4364</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
