@@ -132,5 +132,19 @@
             <itunes:duration>4364</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>9</itunes:episode>
+            <title>Lamenting Familiar Mistakes!</title>
+            <description>
+                This week on #TakeoverUnitedPod, Pratyush, Somdeep, and Rohan rue the team reverting to familiar mistakes against Nottingham Forest!
+            </description>
+            <enclosure url="https://media.githubusercontent.com/media/pratnala/takeoverunitedpod/refs/heads/main/episodes/2025-04-04.mp3" type="audio/mpeg" length="72500655"/>
+            <guid>AD1D0A77-4E1D-4A2E-928D-807206A56A32</guid>
+            <pubDate>Fri, 04 Apr 2025 08:30:00 +0530</pubDate>
+            <itunes:duration>1812</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
