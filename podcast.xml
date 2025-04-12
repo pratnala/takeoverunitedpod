@@ -146,5 +146,19 @@
             <itunes:duration>1812</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>10</itunes:episode>
+            <title>Uninspiring in Attack and Leaky in Defense!</title>
+            <description>
+                This week on #TakeoverUnitedPod, Pratyush, Somdeep, and Rohan mourn two frustrating draws against listless opposition - one because of a toothless attack against Manchester City and the other because of a sieve-like defense against Olympique Lyonnais. Two winnable games, but instead we got two depressing draws!
+            </description>
+            <enclosure url="https://media.githubusercontent.com/media/pratnala/takeoverunitedpod/refs/heads/main/episodes/2025-04-11.mp3" type="audio/mpeg" length="148177393"/>
+            <guid>4741DF2C-3AA9-4D36-9891-4551A22DE1B0</guid>
+            <pubDate>Fri, 11 Apr 2025 10:00:00 +0530</pubDate>
+            <itunes:duration>3704</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
