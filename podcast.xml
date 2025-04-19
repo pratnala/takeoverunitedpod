@@ -160,5 +160,19 @@
             <itunes:duration>3704</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>11</itunes:episode>
+            <title>A Magical European Night at Old Trafford!</title>
+            <description>
+                This week on #TakeoverUnitedPod, Pratyush, Somdeep, and Rohan celebrate the wild win against Olympique Lyonnais, ignore the loss against Newcastle United, and give their respective lists of 3 realistic summer transfers that they believe would elevate the club for next season!
+            </description>
+            <enclosure url="https://media.githubusercontent.com/media/pratnala/takeoverunitedpod/refs/heads/main/episodes/2025-04-18.mp3" type="audio/mpeg" length="148860951"/>
+            <guid>9F710ECC-6A72-4DAC-9365-1D1173FF50CD</guid>
+            <pubDate>Fri, 18 Apr 2025 10:00:00 +0530</pubDate>
+            <itunes:duration>3721</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
