@@ -174,5 +174,19 @@
             <itunes:duration>3721</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>12</itunes:episode>
+            <title>Clinging on to the European Dream!</title>
+            <description>
+                This week on #TakeoverUnitedPod, Pratyush, Somdeep, and Rohan rejoice (and analyze) the dominant win against Athletic Club, dissect why Manchester United has such bipolar performances between the Premier League and the Europa League, and have a free-ranging discussion on Ruben Amorim's philosophy!
+            </description>
+            <enclosure url="https://media.githubusercontent.com/media/pratnala/takeoverunitedpod/refs/heads/main/episodes/2025-05-02.mp3" type="audio/mpeg" length="208411799"/>
+            <guid>DBB63642-9142-4886-AC9D-17D26FA40F71</guid>
+            <pubDate>Fri, 02 May 2025 09:30:00 +0530</pubDate>
+            <itunes:duration>5209</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
