@@ -188,5 +188,19 @@
             <itunes:duration>5209</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:episode>13</itunes:episode>
+            <title>Is MUFC Cooked?</title>
+            <description>
+                This week on #TakeoverUnitedPod, Pratyush, Somdeep, and Rohan dive deep into the shortcomings of Manchester United Football Club, debate if Ruben Amorim is the right man for the future, and analyze if INEOS has the stomach to do the long-term squad planning that the club sorely needs!
+            </description>
+            <enclosure url="https://media.githubusercontent.com/media/pratnala/takeoverunitedpod/refs/heads/main/episodes/2025-05-16.mp3" type="audio/mpeg" length="220924987"/>
+            <guid>C9725AE0-5BB9-4DD1-AD50-7CF80E618CDB</guid>
+            <pubDate>Fri, 16 May 2025 11:00:00 +0530</pubDate>
+            <itunes:duration>5522</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
