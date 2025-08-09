@@ -216,5 +216,19 @@
             <itunes:duration>5804</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <title>The Highs and Lows of Marcus Rashford!</title>
+            <description>
+                After a summer hiatus, #TakeoverUnitedPod is back! In this episode, Pratyush and Somdeep look back at the highs and lows of Marcus Rashford's time at Manchester United, analyzing everything from his iconic debut to the struggles that led to his recent departure.
+            </description>
+            <enclosure url="https://media.githubusercontent.com/media/pratnala/takeoverunitedpod/refs/heads/main/episodes/2025-08-07.mp3" type="audio/mpeg" length="201438562"/>
+            <guid>619712EA-968A-4738-9C91-6F8A8A8E0FEE</guid>
+            <pubDate>Thu, 07 Aug 2025 12:00:00 +0530</pubDate>
+            <itunes:duration>5035</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
