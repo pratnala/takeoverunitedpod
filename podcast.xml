@@ -230,5 +230,19 @@
             <itunes:duration>5035</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>2</itunes:episode>
+            <title>Does Amorim Deserve More Time?</title>
+            <description>
+                It was a familiar sight at the Etihad Stadium as Manchester United fell to yet another defeat, this time at the hands of Manchester City in a listless capitulation. In this episode of #TakeoverUnitedPod, Pratyush and Somdeep dissect the tactical shortcomings that led to the loss and debate whether Ruben Amorim deserves more time to turn things around at Old Trafford.
+            </description>
+            <enclosure url="https://media.githubusercontent.com/media/pratnala/takeoverunitedpod/refs/heads/main/episodes/2025-09-14.mp3" type="audio/mpeg" length="152211180"/>
+            <guid>2C191E00-EC0F-49A6-9DA5-E3914A27D713</guid>
+            <pubDate>Mon, 15 Sep 2025 00:00:00 +0530</pubDate>
+            <itunes:duration>3804</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
