@@ -244,5 +244,19 @@
             <itunes:duration>3804</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <title>A Ray of Hope or A False Start?</title>
+            <description>
+                A much-needed win against Chelsea at Old Trafford has given Manchester United fans a glimmer of hope amidst a challenging start to the season. In this episode of #TakeoverUnitedPod, Pratyush and Somdeep debate whether this marks a turning point for Ruben Amorim's tenure or if it's just a false start!
+            </description>
+            <enclosure url="https://media.githubusercontent.com/media/pratnala/takeoverunitedpod/refs/heads/main/episodes/2025-09-23.mp3" type="audio/mpeg" length="156172902"/>
+            <guid>48E20446-E48B-463A-A4AA-F4FAE3D05255</guid>
+            <pubDate>Tue, 23 Sep 2025 23:00:00 +0530</pubDate>
+            <itunes:duration>3904</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
