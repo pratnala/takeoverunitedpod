@@ -258,5 +258,19 @@
             <itunes:duration>3904</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <title>How Much Longer Do We Suffer?</title>
+            <description>
+                Manchester United slip to yet another disappointing defeat against Brentford at the Gtech Community Stadium, continuing their poor run of form. In this episode of #TakeoverUnitedPod, Pratyush and Somdeep debunk the myth of "underlying data" looking good, question if Bryan Mbeumo made the correct choice, compare Ruben Amorim's record to Gary Neville's, and most importantly, ask the critical question - "how much longer do we suffer?"
+            </description>
+            <enclosure url="https://media.githubusercontent.com/media/pratnala/takeoverunitedpod/refs/heads/main/episodes/2025-09-28.mp3" type="audio/mpeg" length="151507307"/>
+            <guid>5E6C1355-AC3F-42BE-AFE3-4B82EAA372FB</guid>
+            <pubDate>Sun, 28 Sep 2025 23:00:00 +0530</pubDate>
+            <itunes:duration>3787</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
