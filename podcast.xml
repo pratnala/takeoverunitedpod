@@ -286,5 +286,19 @@
             <itunes:duration>3647</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>6</itunes:episode>
+            <title>Is Manchester United Finally Turning a Corner?</title>
+            <description>
+                Manchester United followed up their dominant win against Sunderland with comprehensive victories over Liverpool and Brighton and Hove Albion. In this episode of #TakeoverUnitedPod, Pratyush and Somdeep analyze the tactical changes that have led to this turnaround, debate whether Ruben Amorim is finally finding his footing, and discuss if Manchester United is truly turning a corner this season.
+            </description>
+            <enclosure url="https://media.githubusercontent.com/media/pratnala/takeoverunitedpod/refs/heads/main/episodes/2025-10-26.mp3" type="audio/mpeg" length="163383860"/>
+            <guid>92B36B1E-3ADC-4EFA-9C11-3DCD4D35A456</guid>
+            <pubDate>Sun, 26 Oct 2025 23:00:00 +0530</pubDate>
+            <itunes:duration>4084</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
