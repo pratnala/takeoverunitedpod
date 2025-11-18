@@ -300,5 +300,19 @@
             <itunes:duration>4084</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>2</itunes:season>
+            <itunes:episode>7</itunes:episode>
+            <title>Long Balls and Second Balls – The Amorim Way?</title>
+            <description>
+                Manchester United's recent draws against Tottenham Hotspur and Nottingham Forest have been characterized by a distinct tactical approach under Ruben Amorim: focusing on long balls and second balls. In this episode of #TakeoverUnitedPod, Pratyush and Somdeep dissect this high-intensity strategy, debate its sustainability over a demanding schedule of playing twice a week, and analyze which players' stock has risen or fallen over the last fortnight.
+            </description>
+            <enclosure url="https://media.githubusercontent.com/media/pratnala/takeoverunitedpod/refs/heads/main/episodes/2025-11-14.mp3" type="audio/mpeg" length="194095792"/>
+            <guid>E64D6A93-BC5D-4078-BF6E-D237A782317D</guid>
+            <pubDate>Fri, 14 Nov 2025 23:00:00 +0530</pubDate>
+            <itunes:duration>4852</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
