@@ -1,4 +1,4 @@
-const CACHE_NAME = 'apex-cache-v2';
+const CACHE_NAME = 'reddevil-cache';
 
 const urlsToCache = [
     // Core Routes
