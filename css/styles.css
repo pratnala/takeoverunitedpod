@@ -4,130 +4,178 @@ Font extensions:
 
 * woff2 - Super Modern Browsers
 * woff  - Pretty Modern Browsers
-* ttf   - Safari, Android, iOS
 
 */
 
 @font-face {
     font-family: 'Dubai';
 
+    font-display: swap;
     src: url('../fonts/DubaiW23-Regular.woff2') format('woff2'),
-        url('../fonts/DubaiW23-Regular.woff') format('woff'),
-        url('../fonts/DubaiW23-Regular.ttf') format('truetype');
+    url('../fonts/DubaiW23-Regular.woff') format('woff');
 }
 
 @font-face {
     font-family: 'Dubai';
     font-weight: 300;
 
+    font-display: swap;
     src: url('../fonts/DubaiW23-Light.woff2') format('woff2'),
-        url('../fonts/DubaiW23-Light.woff') format('woff'),
-        url('../fonts/DubaiW23-Light.ttf') format('truetype');
+    url('../fonts/DubaiW23-Light.woff') format('woff');
 }
 
 @font-face {
     font-family: 'Dubai';
     font-weight: 500;
 
+    font-display: swap;
     src: url('../fonts/DubaiW23-Medium.woff2') format('woff2'),
-        url('../fonts/DubaiW23-Medium.woff') format('woff'),
-        url('../fonts/DubaiW23-Medium.ttf') format('truetype');
+    url('../fonts/DubaiW23-Medium.woff') format('woff');
 }
 
 @font-face {
     font-family: 'Dubai';
     font-weight: bold;
 
+    font-display: swap;
     src: url('../fonts/DubaiW23-Bold.woff2') format('woff2'),
-        url('../fonts/DubaiW23-Bold.woff') format('woff'),
-        url('../fonts/DubaiW23-Bold.ttf') format('truetype');
+    url('../fonts/DubaiW23-Bold.woff') format('woff');
 }
 
 body {
     font-family: 'Dubai', sans-serif;
-    font-size: 15px;
-
-    letter-spacing: 2px;
-
-    color: #fff;
-    background-color: #2a2a2a;
 }
 
-img {
-    border-radius: 50%;
+iframe {
+    width: 100%;
+
+    border-radius: 4px;
+    background-color: #1a1a1a;
+
+    aspect-ratio: 16 / 9;
 }
 
-.profile-picture {
-    display: block;
-
-    max-width: 100px;
-    height: auto;
-    margin-top: 10%;
-    margin-right: auto;
-    margin-left: auto;
+iframe.short-video {
+    aspect-ratio: 9 / 16;
 }
 
-.profile-name {
-    font-size: 30px;
-    font-weight: bold;
-
-    padding: 30px;
-
-    text-align: center;
+.btn-apple {
+    color: #ffffff;
+    background-color: #872ec4;
 }
 
-.section-header {
-    font-size: 25px;
-    font-weight: 500;
-
-    margin-top: 10px;
-    margin-right: auto;
-    margin-left: auto;
-    padding: 10px;
-
-    text-align: center;
+.btn-apple:hover {
+    color: #ffffff;
+    background-color: #6d23a1;
 }
 
-.link {
-    font-size: 20px;
-
-    margin-top: 20px;
-    margin-right: auto;
-    margin-left: auto;
-    padding: 20px;
-
-    text-align: center;
+.btn-pocketcasts {
+    color: #ffffff;
+    background-color: #f43e37;
 }
 
-.text-link {
-    display: block;
-
-    width: 290px;
-
-    border: 1px solid #fff;
-    border-width: 2px;
-    border-radius: 40px;
+.btn-pocketcasts:hover {
+    color: #ffffff;
+    background-color: #d1322c;
 }
 
-.profile-link {
-    display: inline-block;
-
-    width: 80px;
-    margin-bottom: 20px;
-
-    border: 1px solid #fff;
-    border-width: 2px;
-    border-radius: 40px;
+.btn-spotify {
+    color: #ffffff;
+    background-color: #1db954;
 }
 
-a {
-    transition: color 1s;
-    text-decoration: none;
-
-    color: #fff;
+.btn-spotify:hover {
+    color: #ffffff;
+    background-color: #189845;
 }
 
-a:hover {
-    color: #000;
-    background: #fff;
+.btn-youtube {
+    color: #ffffff;
+    background-color: #ff0033;
+}
+
+.btn-youtube:hover {
+    color: #ffffff;
+    background-color: #cc0000;
+}
+
+.card {
+    transition: transform .2s ease-in-out, box-shadow .2s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.dropdown-menu {
+    --bs-dropdown-link-active-bg: #e10600;
+    --bs-dropdown-link-active-color: #ffffff;
+    --bs-dropdown-link-hover-bg: rgba(225, 6, 0, .2);
+    --bs-dropdown-link-hover-color: #ffffff;
+}
+
+.hero-jumbotron {
+    color: #ffffff;
+    background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .7)), url('../img/header.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 25%;
+    background-size: cover;
+}
+
+.pagination {
+    --bs-pagination-color: #e10600;
+    --bs-pagination-hover-color: var(--bs-body-color);
+    --bs-pagination-hover-bg: rgba(225, 6, 0, .15);
+    --bs-pagination-hover-border-color: rgba(0, 0, 0, 0);
+    --bs-pagination-active-color: #ffffff;
+    --bs-pagination-active-bg: #c8102e;
+    --bs-pagination-active-border-color: #c8102e;
+    --bs-pagination-border-color: rgba(100, 100, 100, .2);
+}
+
+.season-tabs-container.nav-pills {
+    --bs-nav-pills-link-active-bg: #e10600;
+    --bs-nav-pills-link-active-color: #ffffff;
+}
+
+.season-tabs-container .nav-link {
+    transition: color .2s ease-in-out, background-color .2s ease-in-out;
+
+    color: var(--bs-secondary-color);
+}
+
+.season-tabs-container .nav-link:hover:not(.active) {
+    color: var(--bs-body-color);
+    background-color: rgba(225, 6, 0, .15);
+}
+
+.transition-glass {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+
+    transition: background-color .3s ease, backdrop-filter .3s ease, padding .3s ease;
+
+    background-color: transparent;
+}
+
+.transition-glass.scrolled {
+    padding-top: .8rem;
+    padding-bottom: .8rem;
+
+    border-bottom: 1px solid rgba(255, 255, 255, .1);
+    background-color: rgba(33, 37, 41, .85);
+
+            backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+}
+
+@media (max-width: 991.98px) {
+    .navbar-collapse {
+        margin-top: .75rem;
+        padding: 1rem;
+
+        border-radius: .5rem;
+        background-color: #212529;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, .5);
+    }
 }

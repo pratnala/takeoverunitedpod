@@ -1,4 +1,4 @@
-name: Minify CSS
+name: Minify CSS and JS
 on:
   push:
     branches:
@@ -8,13 +8,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4.1.1
+        uses: actions/checkout@v6.0.2
       - name: Auto Minify
-        uses: nizarmah/auto-minify@v2.1.1
+        uses: nizarmah/auto-minify@v3.0.0
         with:
           maxdepth: 2
       - name: Git Auto Commit
-        uses: stefanzweifel/git-auto-commit-action@v5.0.0
+        uses: stefanzweifel/git-auto-commit-action@v7.1.0
         with:
           commit_message: Auto Minification
           commit_user_name: Pratyush Nalam
