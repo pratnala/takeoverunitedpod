@@ -314,5 +314,17 @@
             <itunes:duration>4852</itunes:duration>
             <itunes:explicit>false</itunes:explicit>
         </item>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>3</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <title>Do We Like Manchester United's Transfers?</title>
+            <description><![CDATA[It is time for a new season, and the transfer window is about to slam shut! What do we think about Manchester United's transfer business? Find out in the first episode of the 2026/27 season!<br /><br />Let us know by tagging us on our socials what you think about our midfield rebuild this season! - <a href="https://www.instagram.com/reddevilrebuild/">Instagram</a>, <a href="https://x.com/reddevilrebuild">X (Twitter)</a>, <a href="https://www.threads.com/@reddevilrebuild">Threads</a>, and <a href="https://www.facebook.com/reddevilrebuild">Facebook</a>.<br /><br />Don't forget to leave us a 5-star review and help more Manchester United fans find #RedDevilRebuild!]]></description>
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/episodes.reddevilrebuild.com/2026-08-27.mp3" type="audio/mpeg" length="89518412"/>
+            <guid>CDA2A678-1A1E-4C2D-AFD3-C21AE04B9C0B</guid>
+            <pubDate>Thu, 27 Aug 2026 21:30:00 +0530</pubDate>
+            <itunes:duration>2237</itunes:duration>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
     </channel>
 </rss>
